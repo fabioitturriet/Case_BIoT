@@ -9,7 +9,7 @@ ________________________________________________________________________________
 # Versão 1.0
 
 ### Modelagem 3D
-<img src="https://user-images.githubusercontent.com/86391684/201102737-3a12f2ae-c413-4c50-a2bd-744caaa23aa1.png" width="500" />
+<img src="https://user-images.githubusercontent.com/86391684/201110014-843b54df-2589-4f36-8e19-207fae978280.jpg" width="500" />
 
 ### Implementação prática
 <img src="https://user-images.githubusercontent.com/86391684/201103007-047cc440-7167-4ba4-95a1-30319d899ad1.jpg" width="350" />
